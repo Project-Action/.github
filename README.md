@@ -2,7 +2,6 @@
 
 Hello and welcome to Project Action! A student led organisation that finds solutions and realistic actions toward each one of the 17 UN Sustainable and Development Goals.
 
-
 ## Sustainable Development Goals
 
 1. [No Poverty](https://sdgs.un.org/goals/goal1)
@@ -22,4 +21,3 @@ Hello and welcome to Project Action! A student led organisation that finds solut
 15. [Life on Land](https://sdgs.un.org/goals/goal5)
 16. [Peace, Justice and Strong Institutions](https://sdgs.un.org/goals/goal16)
 17. [Partnership for the Goals](https://sdgs.un.org/goals/goal17)
-s
